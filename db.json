@@ -2973,12 +2973,12 @@
             ]
         }
     ],
-    "top-players": [{
+    "top-players": [
+        {
             "id": "05CRzFTp7TouOXPuH6Tapu",
             "name": "Isyana Sarasvati",
             "rating": "3.5",
-            "images": [
-                {
+            "images": [{
                     "height": 320,
                     "url": "https://i.scdn.co/image/b6008a15b43d04203b7a02806a5ea902d6285fe7",
                     "width": 320
@@ -2994,8 +2994,7 @@
             "id": "0ygQsC5td2maGmglpzd7tp",
             "name": "Rossa",
             "rating": "3.5",
-            "images": [
-                {
+            "images": [{
                     "height": 320,
                     "url": "https://i.scdn.co/image/1e1d1172992b7ec3490adb9ff761340672a3595f",
                     "width": 320
@@ -3011,8 +3010,7 @@
             "id": "5Bh3L78YDNSWljRR1JO5C5",
             "name": "Marion Jola",
             "rating": "3.5",
-            "images": [
-                {
+            "images": [{
                     "height": 320,
                     "url": "https://i.scdn.co/image/ca53e0089daa055d9bd7cade77367122a289a17f",
                     "width": 320
@@ -3028,8 +3026,7 @@
             "id": "4cgBCGxtlfap2g6jveB7du",
             "name": "Afgan",
             "rating": "3.3",
-            "images": [
-                {
+            "images": [{
                     "height": 320,
                     "url": "https://i.scdn.co/image/ebd73de2723eb938c04fca49cef2345d069177a1",
                     "width": 320
@@ -3045,8 +3042,7 @@
             "id": "2iDVt6mFbtbDEZG5ax0dTi",
             "name": "Tulus",
             "rating": "3.0",
-            "images": [
-                {
+            "images": [{
                     "height": 320,
                     "url": "https://i.scdn.co/image/1c56c04ef035e91d71192a4ad78c8a424d458f48",
                     "width": 320
@@ -3059,7 +3055,8 @@
             ]
         }
     ],
-    "insight": [{
+    "insight": [
+        {
             "id": "abcde",
             "images": [{
                 "url": "https://i.imgur.com/YxCwuqw.jpg"
@@ -3078,54 +3075,242 @@
             }]
         }
     ],
-    "upcomingEvents": [{
-            "id": "d1v",
-            "name": "Authentic Moment With Fiersa Besari",
-            "date": "2018-01-19",
+    "events": [
+        {
+            "id": "35984789",
+            "name": "Analog Us and willow and hound with Jaz at Phoenix Theater (January 26, 2019)",
+            "date": "2019-01-26",
             "images": [{
-                "url": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20181227062500_5c240dccdebb5.jpg"
+                "url": "https://images.sk-static.com/images/media/profile_images/events/35984789/huge_avatar"
             }]
         },
         {
-            "id": "erk",
-            "name": "Authentic Moment With Efek Rumah Kaca",
-            "date": "2018-01-18",
+            "id": "35401984",
+            "name": "Jaz with Baba Israel at Levitas Center for the Arts (December 15, 2018)",
+            "date": "2018-12-15",
             "images": [{
-                "url": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20190102125734_5c2c52cf0058b.jpg"
+                "url": "https://images.sk-static.com/images/media/profile_images/events/35401984/huge_avatar"
             }]
         },
         {
-            "id": "44U9",
-            "name": "Banten Music Festival",
-            "date": "2018-01-18",
+            "id": "36048624",
+            "name": "The 41st Jazz Goes To Campus 2018",
+            "date": "2018-12-02",
             "images": [{
-                "url": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20181003071811.jpg"
+                "url": "https://images.sk-static.com/images/media/profile_images/events/36048624/huge_avatar"
             }]
         },
         {
-            "id": "D1n",
-            "name": "Tulus Monokrom",
-            "date": "2018-02-06",
+            "id": "35893589",
+            "name": "Technoblast 2018",
+            "date": "2018-11-24",
             "images": [{
-                "url": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20181228022140.jpg"
+                "url": "https://images.sk-static.com/images/media/profile_images/events/35893589/huge_avatar"
             }]
         },
         {
-            "id": "bYN",
-            "name": "Love is Live",
-            "date": "2018-02-08",
+            "id": "35417049",
+            "name": "Steroids 2018",
+            "date": "2018-11-24",
             "images": [{
-                "url": "https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/banner/20181116114647.JPG"
+                "url": "https://images.sk-static.com/images/media/profile_images/events/35417049/huge_avatar"
+            }]
+        },
+        {
+            "id": "35808114",
+            "name": "ISMAYA 15 2018",
+            "date": "2018-11-09",
+            "images": [{
+                "url": "https://images.sk-static.com/images/media/profile_images/events/35808114/huge_avatar"
+            }]
+        },
+        {
+            "id": "35785874",
+            "name": "Inspirasi Cinta Yovie and His Friends 2018",
+            "date": "2018-11-07",
+            "images": [{
+                "url": "https://images.sk-static.com/images/media/profile_images/events/35785874/huge_avatar"
+            }]
+        },
+        {
+            "id": "35785834",
+            "name": "Do Music Festival 2018",
+            "date": "2018-11-03",
+            "images": [{
+                "url": "https://images.sk-static.com/images/media/profile_images/events/35785834/huge_avatar"
+            }]
+        },
+        {
+            "id": "35755509",
+            "name": "Padjadjaran Education Festival 2018",
+            "date": "2018-11-03",
+            "images": [{
+                "url": "https://images.sk-static.com/images/media/profile_images/events/35755509/huge_avatar"
+            }]
+        },
+        {
+            "id": "35652999",
+            "name": "Afgan at Plenary Hall, Kuala Lumpur Convention Centre (November 3, 2018)",
+            "date": "2018-11-03",
+            "images": [{
+                "url": "https://images.sk-static.com/images/media/profile_images/events/35652999/huge_avatar"
+            }]
+        },
+        {
+            "id": "35639909",
+            "name": "Wave of Tomorrow 2018",
+            "date": "2018-10-19",
+            "images": [{
+                "url": "https://images.sk-static.com/images/media/profile_images/events/35639909/huge_avatar"
+            }]
+        },
+        {
+            "id": "34825989",
+            "name": "ICOCS 2018 : Rafflence De Peripetia (SMAN 9 Malang) 2018",
+            "date": "2018-10-13",
+            "images": [{
+                "url": "https://images.sk-static.com/images/media/profile_images/events/34825989/huge_avatar"
+            }]
+        },
+        {
+            "id": "35013244",
+            "name": "Farhan Shah, GAC, Rossa, Adrian Khalif, and 9 more… at Mediacorp MES Theatre (September 28, 2018)",
+            "date": "2018-09-28",
+            "images": [{
+                "url": "https://images.sk-static.com/images/media/profile_images/events/35013244/huge_avatar"
+            }]
+        },
+        {
+            "id": "35207714",
+            "name": "TRENTXATION 2018 2018",
+            "date": "2018-09-15",
+            "images": [{
+                "url": "https://images.sk-static.com/images/media/profile_images/events/35207714/huge_avatar"
+            }]
+        },
+        {
+            "id": "34242884",
+            "name": "High School Celebration 2018",
+            "date": "2018-09-08",
+            "images": [{
+                "url": "https://images.sk-static.com/images/media/profile_images/events/34242884/huge_avatar"
+            }]
+        },
+        {
+            "id": "34503494",
+            "name": "Hodgepodge Superfest 2018",
+            "date": "2018-09-01",
+            "images": [{
+                "url": "https://images.sk-static.com/images/media/profile_images/events/34503494/huge_avatar"
+            }]
+        },
+        {
+            "id": "33671704",
+            "name": "Jazz Traffic 2018",
+            "date": "2018-08-25",
+            "images": [{
+                "url": "https://images.sk-static.com/images/media/profile_images/events/33671704/huge_avatar"
+            }]
+        },
+        {
+            "id": "33269984",
+            "name": "Prambanan Jazz Festival 2018",
+            "date": "2018-08-17",
+            "images": [{
+                "url": "https://images.sk-static.com/images/media/profile_images/events/33269984/huge_avatar"
+            }]
+        },
+        {
+            "id": "34633589",
+            "name": "ON OFF 2018",
+            "date": "2018-08-11",
+            "images": [{
+                "url": "https://images.sk-static.com/images/media/profile_images/events/34633589/huge_avatar"
+            }]
+        },
+        {
+            "id": "34210389",
+            "name": "Hyperplay 2018",
+            "date": "2018-08-04",
+            "images": [{
+                "url": "https://images.sk-static.com/images/media/profile_images/events/34210389/huge_avatar"
+            }]
+        },
+        {
+            "id": "34573914",
+            "name": "Tamasya Mesin Waktu 2018",
+            "date": "2018-07-29",
+            "images": [{
+                "url": "https://images.sk-static.com/images/media/profile_images/events/34573914/huge_avatar"
+            }]
+        },
+        
+        {
+            "id": "32768469",
+            "name": "WE THE FEST 2018",
+            "date": "2018-07-20",
+            "images": [{
+                "url": "https://images.sk-static.com/images/media/profile_images/events/32768469/huge_avatar"
+            }]
+        },
+        {
+            "id": "34401619",
+            "name": "Pels, Tulus, and Tick Toper at JJ Circuito Cultural (July 7, 2018)",
+            "date": "2018-07-07",
+            "images": [{
+                "url": "https://images.sk-static.com/images/media/profile_images/events/34401619/huge_avatar"
             }]
         }
     ],
-    "messages": [{
+    "upcoming-events": [
+        {
+            "id": "35984789",
+            "name": "Analog Us and willow and hound with Jaz at Phoenix Theater (January 26, 2019)",
+            "date": "2019-01-26",
+            "images": [{
+                "url": "https://images.sk-static.com/images/media/profile_images/events/35984789/huge_avatar"
+            }]
+        },
+        {
+            "id": "35401984",
+            "name": "Jaz with Baba Israel at Levitas Center for the Arts (December 15, 2018)",
+            "date": "2018-12-15",
+            "images": [{
+                "url": "https://images.sk-static.com/images/media/profile_images/events/35401984/huge_avatar"
+            }]
+        },
+        {
+            "id": "36048624",
+            "name": "The 41st Jazz Goes To Campus 2018",
+            "date": "2018-12-02",
+            "images": [{
+                "url": "https://images.sk-static.com/images/media/profile_images/events/36048624/huge_avatar"
+            }]
+        },
+        {
+            "id": "35893589",
+            "name": "Technoblast 2018",
+            "date": "2018-11-24",
+            "images": [{
+                "url": "https://images.sk-static.com/images/media/profile_images/events/35893589/huge_avatar"
+            }]
+        },
+        {
+            "id": "35417049",
+            "name": "Steroids 2018",
+            "date": "2018-11-24",
+            "images": [{
+                "url": "https://images.sk-static.com/images/media/profile_images/events/35417049/huge_avatar"
+            }]
+        }
+    ],
+    "messages": [
+        {
             "id": "05CRzFTp7TouOXPuH6Tapu",
             "name": "Isyana Sarasvati",
             "rating": "3.5",
             "message": "Lorem ipsum dolor sit amet",
-            "images": [
-                {
+            "images": [{
                     "height": 320,
                     "url": "https://i.scdn.co/image/b6008a15b43d04203b7a02806a5ea902d6285fe7",
                     "width": 320
@@ -3142,8 +3327,7 @@
             "name": "Rossa",
             "rating": "3.5",
             "message": "Lorem ipsum dolor sit amet",
-            "images": [
-                {
+            "images": [{
                     "height": 320,
                     "url": "https://i.scdn.co/image/1e1d1172992b7ec3490adb9ff761340672a3595f",
                     "width": 320
@@ -3160,8 +3344,7 @@
             "name": "Marion Jola",
             "rating": "3.5",
             "message": "Lorem ipsum dolor sit amet",
-            "images": [
-                {
+            "images": [{
                     "height": 320,
                     "url": "https://i.scdn.co/image/ca53e0089daa055d9bd7cade77367122a289a17f",
                     "width": 320
@@ -3178,8 +3361,7 @@
             "name": "Afgan",
             "rating": "3.3",
             "message": "Lorem ipsum dolor sit amet",
-            "images": [
-                {
+            "images": [{
                     "height": 320,
                     "url": "https://i.scdn.co/image/ebd73de2723eb938c04fca49cef2345d069177a1",
                     "width": 320
@@ -3196,8 +3378,7 @@
             "name": "Tulus",
             "rating": "3.0",
             "message": "Lorem ipsum dolor sit amet",
-            "images": [
-                {
+            "images": [{
                     "height": 320,
                     "url": "https://i.scdn.co/image/1c56c04ef035e91d71192a4ad78c8a424d458f48",
                     "width": 320
